@@ -1,3 +1,5 @@
+A web application built using the React framework that enables users to manage appointments for pets. The application allows users to schedule new appointments, delete existing ones, and sort appointments based on different criteria such as pet name, owner name, and date. The sorting can be done in ascending or descending order. Overall, the project provides a user-friendly interface for managing pet appointments efficiently.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
